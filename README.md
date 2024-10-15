@@ -1,3 +1,7 @@
+<div align="center">
+    <img src="matrix.webp" alt="Superman GIF" width="600" height="300">
+</div>
+
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋🏿;+Eu+sou+Gabriel+Torres!&color=1ba2e5;" />
 </h1>
@@ -27,9 +31,6 @@
 <img align="center" alt="html5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 </div><br/>
 
-<div align="center">
-    <img src="matrix.webp" alt="Superman GIF" width="600" height="300">
-</div>
 
 
 
