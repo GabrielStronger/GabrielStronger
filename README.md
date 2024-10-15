@@ -27,8 +27,8 @@
 <img align="center" alt="html5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 </div><br/>
 
-<div>
-    <img src="https://giphy.com/embed/I0qa03Vw1OtKE" alt="Superman GIF" width="500" height="300">
+<div align="center">
+    <img src="super.webp" alt="Superman GIF" width="500" height="300">
 </div>
 
 
