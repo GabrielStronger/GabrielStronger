@@ -27,11 +27,9 @@
 <img align="center" alt="html5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 </div><br/>
 
-
-
-### Sou estudante de Análise e Desenvolvimento de Sistemas, focado em me tornar desenvolvedor front-end e full stack. Tenho habilidades em HTML, CSS, Java e JavaScript para criar interfaces responsivas e funcionais, além de expandir meu conhecimento em back-end com Python. Estou sempre buscando aprimorar minhas competências para atuar em projetos completos de desenvolvimento de software.
-
-
+<div>
+    <img src="https://giphy.com/embed/I0qa03Vw1OtKE" alt="Superman GIF" width="500" height="300">
+</div>
 
 
 
