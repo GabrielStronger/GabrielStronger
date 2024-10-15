@@ -1,8 +1,11 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋🏿;+Eu+sou+Gabriel+Torres!&color=1ba2e5;" />
-   
-
 </h1>
+
+<div d-flex="justify-content-start">
+     <h4>Sou estudante de Análise e Desenvolvimento de Sistemas, focado em me tornar desenvolvedor front-end e full stack. Tenho habilidades em HTML, CSS, Java e JavaScript para criar interfaces responsivas e funcionais, além de expandir meu conhecimento em back-end com Python. Estou sempre buscando aprimorar minhas competências para atuar em projetos completos de desenvolvimento de software.
+     </h4>    
+</div>
 
 ## Siga-me nas redes! 🔗
 [![blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrieljcstorres/)
