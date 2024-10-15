@@ -9,8 +9,8 @@
 [![blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabrielchinata/)
 
 <div style="display: flex; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=GabrielStronger&show_icons=true&theme=nightowl" alt="GitHub Stats" style="width: 500px; height: 200px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielStronger&layout=donut&theme=nightowl" alt="Top Languages" style="width: 500px; height: 200px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GabrielStronger&show_icons=true&theme=nightowl" alt="GitHub Stats" style="width: 400px; height: 200px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielStronger&layout=donut&theme=nightowl" alt="Top Languages" style="width: 400px; height: 200px;" />
 </div>
 
 
