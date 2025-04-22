@@ -7,7 +7,7 @@
 </div>
 
 <div d-flex="justify-content-start">
-     <h4>Sou estudante de Análise e Desenvolvimento de Sistemas, focado em me tornar desenvolvedor front-end e full stack. Tenho habilidades em HTML, CSS, Java e JavaScript para criar interfaces responsivas e funcionais, além de expandir meu conhecimento em back-end com Python. Estou sempre buscando aprimorar minhas competências para atuar em projetos completos de desenvolvimento de software.
+     <h4>Sou estudante de Análise e Desenvolvimento de Sistemas, focado em me tornar desenvolvedor front-end e full stack. No meu dia a dia, utilizo tecnologias como Figma, HTML5, CSS3, JavaScript, TypeScript, AngularJS, Bootstrap, Python, Java, Node.js, MySQL e SQLite para criar interfaces modernas, responsivas e funcionais, além de desenvolver soluções completas de software. Estou sempre em busca de aprimorar minhas competências e evoluir tanto no front-end quanto no back-end.
      </h4>    
 </div>
 
@@ -24,7 +24,8 @@
 ## Tecnologias que eu uso no meu dia:
 
 <div style="display: inline_block"><br/>
-<img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img align="center" alt="html5" src= "https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">    
+<img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">    
 <img align="center" alt="html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
