@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-    <img src="code.gif" alt="ERA PRA CARREGAR UMA GIF" width="250" height="250">
+    <img src="code1.gif" alt="ERA PRA CARREGAR UMA GIF" width="600" height="300">
 </div>
 
 <div d-flex="justify-content-start">
