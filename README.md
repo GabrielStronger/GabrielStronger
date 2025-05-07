@@ -23,21 +23,16 @@
 
 ## Tecnologias que eu uso no meu dia:
 
-<div style="display: inline_block"><br/>
-<img align="center" alt="html5" src= "https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">    
-<img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">    
-<img align="center" alt="html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img align="center" alt="html5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-<img align="center" alt="html5" src= "https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-<img align="center" alt="html5" src= "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-<img align="center" alt="html5" src= "https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white">
-<img align="center" alt="html5" src= "https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> 
-<img align="center" alt="html5" src= "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"> 
-<img align="center" alt="html5" src= "https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">     
-</div><br/>
+Atualmente tenho conhecimento nas seguintes áreas da tecnologia:
+| Linguagens de Programação | Desenvolvimento Web | Banco de Dados | Outros |
+| ------ | ------ | ------ | ------ |
+| ![Linguagens de Programação](https://skillicons.dev/icons?i=java,js,python,c) | ![Desenvolvimento Web](https://skillicons.dev/icons?i=html,css,bootstrap,php) | ![Banco de Dados](https://skillicons.dev/icons?i=mysql)<img width='48px' height='48px' src="https://cdn-icons-png.freepik.com/512/5968/5968409.png"/> | ![Desenvolvimento Web](https://skillicons.dev/icons?i=figma,photoshop,notion)
 
+# IDE
+Atualmente tenho conhecimento das seguintes IDEs:<br/>
+<img width='200px' height='200px' src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/images/logo@3x.png"/>
+<img width='200px' height='200px' src="https://cdn.icon-icons.com/icons2/1381/PNG/512/eclipse_94656.png"/>
+<img width='200px' height='200px' src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png"/>
 
 
 
