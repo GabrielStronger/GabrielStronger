@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-    <img src="morfeu.gif" alt="ERA PRA CARREGAR UMA GIF" width="600" height="300">
+    <img src="code.gif" alt="ERA PRA CARREGAR UMA GIF" width="600" height="300">
 </div>
 
 <div d-flex="justify-content-start">
@@ -26,7 +26,7 @@
 Atualmente tenho conhecimento nas seguintes áreas da tecnologia:
 | Linguagens de Programação | Desenvolvimento Web | Banco de Dados | Outros |
 | ------ | ------ | ------ | ------ |
-| ![Linguagens de Programação](https://skillicons.dev/icons?i=java,js,python,c) | ![Desenvolvimento Web](https://skillicons.dev/icons?i=html,css,bootstrap,php) | ![Banco de Dados](https://skillicons.dev/icons?i=mysql)<img width='48px' height='48px' src="https://cdn-icons-png.freepik.com/512/5968/5968409.png"/> | ![Desenvolvimento Web](https://skillicons.dev/icons?i=figma,photoshop,notion)
+| ![Linguagens de Programação](https://skillicons.dev/icons?i=java,js,python,c) | ![Desenvolvimento Web](https://skillicons.dev/icons?i=html,css,bootstrap) | ![Banco de Dados](https://skillicons.dev/icons?i=mysql)<img width='48px' height='48px' src="https://cdn-icons-png.freepik.com/512/5968/5968409.png"/> | ![Desenvolvimento Web](https://skillicons.dev/icons?i=figma)
 
 # IDE
 Atualmente tenho conhecimento das seguintes IDEs:<br/>
