@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-    <img src="morpheus.webp" alt="Superman GIF" width="600" height="300">
+    <img src="morpheus.webp" alt="ERA PRA CARREGAR UMA GIF" width="600" height="300">
 </div>
 
 <div d-flex="justify-content-start">
