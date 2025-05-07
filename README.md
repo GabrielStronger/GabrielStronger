@@ -30,9 +30,51 @@ Atualmente tenho conhecimento nas seguintes áreas da tecnologia:
 
 # IDE
 Atualmente tenho conhecimento das seguintes IDEs:<br/>
-<img width='200px' height='200px' src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/images/logo@3x.png"/>
-<img width='200px' height='200px' src="https://cdn.icon-icons.com/icons2/1381/PNG/512/eclipse_94656.png"/>
-<img width='200px' height='200px' src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png"/>
+<img width='100px' height='100px' src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/images/logo@3x.png"/>
+<img width='100px' height='100px' src="https://cdn.icon-icons.com/icons2/1381/PNG/512/eclipse_94656.png"/>
+<img width='100px' height='100px' src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png"/>
+<img width='100px' height='100px' src="https://images.icon-icons.com/4051/PNG/512/python_pycharm_icon_icon_257066.png"/>
+<img width='160px' height='100px' src="https://bgasparotto.com/wp-content/uploads/2017/12/spring-logo.png"/>
+<img width='100px' height='100px' src="https://images.icon-icons.com/2415/PNG/512/github_original_wordmark_logo_icon_146506.png"/>
+<img width='160px' height='100px' src="https://images.icon-icons.com/2699/PNG/512/nodejs_logo_icon_168945.png"/>
+
+
+
+## 📌 Projetos Acadêmicos
+
+
+
+### 🚀 TRAVELRJ – Website de Turismo
+
+**📝 Descrição:**  
+Plataforma informativa voltada a turistas no Rio de Janeiro, com foco em acessibilidade para falantes de inglês e espanhol. Inclui funcionalidades como reservas de hospedagens, compras de produtos e serviços locais.
+
+**🎯 Missão:**  
+Criar uma solução digital que facilite o turismo no RJ, promovendo a inclusão linguística e o acesso rápido a informações relevantes para visitantes estrangeiros.
+
+---
+
+### 🦸 Interface de App sobre Diabetes (Figma)
+
+**📝 Descrição:**  
+Projeto de interface desenvolvido no Figma para um aplicativo voltado à prevenção e cuidados com a diabetes. O design é inspirado nos personagens dos Vingadores, com foco em usabilidade e apelo visual para diferentes perfis de usuários.
+
+**🎯 Missão:**  
+Projetar uma interface funcional, atrativa e educativa que auxilie usuários no controle da diabetes e promova o autocuidado de forma acessível.
+
+---
+
+### 📚 Sistema de Vendas para Livraria
+
+**📝 Descrição:**  
+Sistema de gerenciamento de vendas e estoque de livros. Suporta múltiplos autores por livro, relacionamento com editoras, cadastro completo e visualização de sinopses em dispositivos móveis e desktop.
+
+**🎯 Missão:**  
+Automatizar e otimizar o processo de vendas em livrarias, garantindo controle eficiente de estoque e boa experiência ao usuário.
+
+---
+
+
 
 
 
